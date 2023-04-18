@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Droos app</string>
+    <string name="welcome_page">مرحبا بك\n في برنامج دروس</string>
+    <string name="desApp">بوابتك للمساعدة في الدروس</string>
+    <string name="ProgrammedBy">تم برمجتة بواسطة A.E.A</string>
+    <string name="name">الاسم</string>
+    <string name="entername">من فضلك ادخل الاسم</string>
+    <string name="email">الإيميل</string>
+    <string name="enteremail">من فضلك ادخل الإيميل</string>
+    <string name="enterpassword">من فضلك ادخل الباسورد</string>
+    <string name="password">الباسورد</string>
+    <string name="forgetpassword">نسيت الباسورد ؟</string>
+    <string name="login">تسجيل</string>
+    <string name="donthaveAccount">ليس لديك حساب ؟ قم بإنشاء حساب</string>
+</resources>

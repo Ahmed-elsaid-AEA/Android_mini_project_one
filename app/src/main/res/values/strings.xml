@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Droos app</string>
+    <string name="welcome_page">Welcome to\n Droos app</string>
+    <string name="desApp">Your gateway to help with lessons</string>
+    <string name="ProgrammedBy">Programmed by A.EA</string>
+    <string name="name">Name</string>
+    <string name="entername">Please Enter name</string>
+    <string name="email">Email</string>
+    <string name="enteremail">Please Enter Email</string>
+    <string name="enterpassword">Please Enter password</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgetpassword">Forget Password ?</string>
+    <string name="donthaveAccount">Don\'t Have an Account?Sign UP</string>
+</resources>
